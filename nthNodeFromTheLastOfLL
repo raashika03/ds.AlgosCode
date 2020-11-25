@@ -14,7 +14,7 @@ void fun(struct node* head,int n){
     struct node *p1,*p2;
     p1=head;
     p2=head;
-    for(int i=1;i<n;i++)p1=p1->next;
+    for(int i=1;i<n&&p1!=NULL;i++)p1=p1->next;
     if(p1==NULL)return;
     while(p1->next!=NULL){
         p1=p1->next;
