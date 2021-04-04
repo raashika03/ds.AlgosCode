@@ -21,10 +21,10 @@
 
 
 OOPS (4)
-Polymorphism
-Inheritance
-Encapsulation
-Abstraction
+1) Polymorphism (overriding(static or compile-time), overloading(run-time))
+2) Inheritance
+3) Encapsulation- private defn of fields & public defn of methods(functions)
+4) Abstraction (Interfaces, Abstract Classes)- Achieved 100% by Interfaces
 
 
 Graph (8)
