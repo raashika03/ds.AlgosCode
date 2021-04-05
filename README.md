@@ -22,7 +22,7 @@
 
 OOPS (4)
 1) Polymorphism (overriding(static or compile-time), overloading(run-time))
-2) Inheritance
+2) Inheritance (single, multilevel, hierarchichal, multiple, Hybrid)
 3) Encapsulation- private defn of fields & public defn of methods(functions)
 4) Abstraction (Interfaces, Abstract Classes)- Achieved 100% by Interfaces
 
