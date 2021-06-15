@@ -234,3 +234,46 @@ Miscellaneous (2)
 1)	 Greedy Algorithm (Activity Selection Problem)
 2)	 Find first circular tour that visits all petrol pumps
 3)	 Make a fair coin from a biased coin
+
+	
+	
+	
+	
+# OS & Networking
+
+## OS
+Threads, Sync, Deadlocks \
+Shell Creation \
+Virtualization of CPU \
+Scheduling Algorithms \
+Concurrency \
+Memory Management
+
+## Computer Networks
+
+TCP service model \
+UDP service model \
+ICMP service model \
+End-to-end principle \
+Finite state machines \
+Stop & wait protocol \
+Sliding Window \
+Reliable communication + Retransmission strategies \
+Reliable communication + TCP header \
+Connection set up & tear down \
+Congestion control basics \
+Congestion control basics II \
+Congestion control AIMD \
+Dynamics of a single AIMD flow \
+Congestion control TCP Tahoe \
+Congestion Control RTT Estimation and Self-clocking \
+Summary of congestion control principles \
+Link layer \
+Wireless: how is it different? \
+Wireless: elaboration on the difference \
+More on wireless \
+Routing  \
+Routing Bellman Ford \
+Routing Dijkstra \
+Routing OSPF \
+Routing BGP 
